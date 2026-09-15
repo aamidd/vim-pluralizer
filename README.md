@@ -15,7 +15,7 @@ git clone https://github.com/aamidd/vim-pluralizer ~/.vim/pack/plugins/start/vim
 Place your cursor on any word and run:
 
 ```vim
-:Plugin
+:Pluralize
 ```
 
 For example:
@@ -28,15 +28,6 @@ becomes:
 
 ```text
 penguins
-```
-
-Running `:Pluralize` again will toggle it back it `penguin`.
-
-## Key Mapping
-
-In the fight against dictatorship, I decided not to force a keybinding on you. Feel free to add your own. My recommendation:
-
-```vim
 ```
 
 Running `:Pluralize` again will toggle it back it `penguin`.
