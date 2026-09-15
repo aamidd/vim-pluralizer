@@ -7,7 +7,7 @@ A simple Vim plugin for toggling a word between its singular and plural forms.
 ## Installation
 
 ```bash
-git clone ... ~/.vim/pack/plugins/start/vim_pluralizer
+git clone https://github.com/aamidd/vim-pluralizer ~/.vim/pack/plugins/start/vim_pluralizer
 ```
 
 ## Usage
