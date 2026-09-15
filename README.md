@@ -47,3 +47,7 @@ You can then place your cursor on a word an press:
 ```
 
 to toggle its singular/plural form.
+
+## License
+
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) file for details.
