@@ -9,3 +9,5 @@ function! PluralizeToggle()
 
 	execute 'normal! ciw' . newword
 endfunction
+
+command! Pluralize call PluralizeToggle()
