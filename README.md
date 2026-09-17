@@ -30,7 +30,7 @@ becomes:
 penguins
 ```
 
-Running `:Pluralize` again will toggle it back it `penguin`.
+Running `:Pluralize` again will toggle it back to `penguin`.
 
 ## Key Mapping
 
@@ -40,7 +40,7 @@ In the fight against dictatorship, I decided not to force a keybinding on you. F
 nnoremap <leader>p :Pluralize<CR>
 ```
 
-You can then place your cursor on a word an press:
+You can then place your cursor on a word and press:
 
 ```text
 <leader>p
